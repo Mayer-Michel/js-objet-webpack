@@ -5,7 +5,7 @@ import imgEncore from './assets/img/Encore-backstage.webp'
 // Import des données json
 import data from './data.json'
 
-console.log('HELLO WORLD')
+console.log('HELLO_WORLD!!!')
 const imgTag = new Image();
 imgTag.alt = 'Encore';
 imgTag.src = imgEncore;
