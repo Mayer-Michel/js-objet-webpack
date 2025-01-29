@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 5,
+            "name": "Paravoile hydrolique",
+            "prix": 500.00
+        },
+        {
+            "id": 8,
+            "name": "Jambes en mousse",
+            "prix": 25.00
+        },
+        {
+            "id": 15,
+            "name": "Agrafeuse à vapeur",
+            "prix": 150.00
+        }
+    ]
+}
